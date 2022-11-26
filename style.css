@@ -1,0 +1,23 @@
+.heading
+{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+font-family: 'Rubik Mono One', sans-serif;
+
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 5px solid pink;
+    border-radius: 20px;
+    margin-top: 50px;
+}
